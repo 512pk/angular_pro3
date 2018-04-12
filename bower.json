@@ -1,0 +1,21 @@
+{
+  "name": "angular_pro3",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Pallavi <'kedarpallavim@gmail.com'>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "angular": "^1.6.9"
+  }
+}
